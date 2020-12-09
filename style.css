@@ -13,7 +13,7 @@ body {
 .wrapper {
     position: relative;
     width: 1440px;
-    min-height: 100vh;
+    height: 1379px;
     margin: auto;
     color: #54575A;
 }
@@ -30,6 +30,14 @@ body {
     line-height: 67px;
 }
 
+.brand-img {
+    position: absolute;
+    width: 193px;
+    height: 47.64px;
+    left: 221px;
+    top: 50.25px;
+}
+
 .text {
     position: absolute;
     width: 394px;
@@ -40,4 +48,132 @@ body {
     font-weight: normal;
     font-size: 20px;
     line-height: 32px;
+}
+
+.app-store-btn {
+    position: absolute;
+    width: 138.44px;
+    height: 46.28px;
+    left: 221px;
+    top: 531px;
+}
+
+.app-store-btn img {
+    width: 138.44px;
+    height: 46.28px;
+}
+
+.google-play-btn {
+    position: absolute;
+    width: 156.19px;
+    height: 46.28px;
+    left: 381.81px;
+    top: 531px;
+}
+
+.google-play-btn img {
+    width: 156.19px;
+    height: 46.28px;
+}
+
+.main-image-container {
+    position: absolute;
+    width: 535.72px;
+    height: 309.27px;
+    left: 683.28px;
+    top: 229.73px;
+}
+
+.main-image-container img {
+    height: 411.15px;
+}
+
+.profile-img {
+    position: absolute;
+    height: 444px;
+    left: 737px;
+    right: 479px;
+    top: 686px;
+    filter: drop-shadow(0px 20px 40px rgba(0, 0, 0, 0.25));
+}
+
+.profile-img img {
+    position: absolute;
+    left: 6.87%;
+    right: 6.97%;
+    top: 3.02%;
+    bottom: 2.84%;
+    background: url(image.png);
+}
+
+.orders-img {
+    position: absolute;
+    height: 470px;
+    left: 479px;
+    right: 737px;
+    top: 913px;
+    filter: drop-shadow(0px 20px 40px rgba(0, 0, 0, 0.25));
+}
+
+.orders-img img {
+    position: absolute;
+    left: 6.87%;
+    right: 6.97%;
+    top: 3.24%;
+    bottom: 3.06%;
+    background: url(Orders.png);
+}
+
+.home-img {
+    position: absolute;
+    height: 470px;
+    left: 995px;
+    right: 221px;
+    top: 908px;
+    filter: drop-shadow(0px 20px 40px rgba(0, 0, 0, 0.25));
+}
+
+.home-img img {
+    position: absolute;
+    left: 7.32%;
+    right: 6.86%;
+    top: 3.23%;
+    bottom: 3.02%;
+    background: url(image.png);
+}
+
+.cart-img {
+    position: absolute;
+    height: 222px;
+    left: 221px;
+    right: 995px;
+    top: 1157px;
+    filter: drop-shadow(0px 20px 40px rgba(0, 0, 0, 0.25));
+}
+
+.cart-img img {
+    position: absolute;
+    left: 7.37%;
+    right: 6.82%;
+    top: 3.15%;
+    bottom: 3.1%;
+    background: url(image.png);
+}
+
+.product-img {
+    position: absolute;
+    height: 222px;
+    left: 737px;
+    right: 479px;
+    top: 1157px;
+    filter: drop-shadow(0px 20px 40px rgba(0, 0, 0, 0.25));
+}
+
+.product-img img {
+    position: absolute;
+    left: 6.87%;
+    right: 6.97%;
+    top: 3.24%;
+    bottom: 3.06%;
+    background: url('Product description.png');
 }
