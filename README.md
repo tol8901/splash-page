@@ -3,6 +3,7 @@ This is a landing page, where the markup is made by a sketch in Figma. Also, the
 
 # Available
 The web-page is available on the link below:
+
 https://tol8901.github.io/splash-page/
 
 # Screenshots
